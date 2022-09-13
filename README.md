@@ -1,2 +1,2 @@
 # 2965_technical_project
-Software developed for the 2965 - Technical Project course at NAIT.
+Software developed for the Technical Project course (CMPE 2965) at NAIT.
