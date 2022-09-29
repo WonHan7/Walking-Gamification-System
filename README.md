@@ -1,2 +1,2 @@
-# 2965_technical_project
-Software developed for the Technical Project course (CMPE 2965) at NAIT.
+# Walking Gamification System
+Web Application to interface with the Walking Gamification System - Technical Project (CMPE2965) course at NAIT.
